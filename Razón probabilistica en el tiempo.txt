@@ -1,0 +1,47 @@
+    Procesos Estacionarios: Un proceso estacionario es un concepto en estadísticas y 
+    series temporales en el que las propiedades estadísticas de un proceso, como la 
+    media y la varianza, son constantes a lo largo del tiempo. Es útil para modelar 
+    y analizar datos que exhiben cierta estabilidad en sus características a lo largo 
+    del tiempo.
+
+    Hipótesis de Markov: Procesos de Markov: La hipótesis de Markov se refiere a 
+    la propiedad de que la probabilidad de que un sistema o proceso pase a un estado 
+    futuro depende únicamente del estado actual y no de los estados pasados. 
+    Los procesos de Markov son modelos que siguen esta hipótesis y se utilizan en 
+    una amplia variedad de aplicaciones, como modelado de sistemas dinámicos, 
+    análisis de redes y aprendizaje automático.
+
+    Filtrado, Predicción, Suavizado y Explicación: Estos términos se refieren a tareas 
+    comunes en análisis de series temporales y procesos estocásticos. Filtrado implica 
+    estimar el estado actual de un proceso dada la observación pasada y presente. 
+    Predicción implica estimar el estado futuro. Suavizado se centra en estimar el 
+    estado pasado o presente con observaciones futuras. La explicación implica modelar y 
+    comprender los procesos subyacentes en los datos observados.
+
+    Algoritmo Hacia Delante-Atrás: Es un algoritmo utilizado en la inferencia de modelos 
+    ocultos de Markov (HMMs) para calcular las probabilidades posteriores de estados 
+    ocultos dados datos observados. Se llama así porque realiza dos pasos: uno hacia 
+    adelante para calcular las probabilidades hacia adelante y otro hacia atrás para 
+    calcular las probabilidades hacia atrás.
+
+    Modelos Ocultos de Markov: Son modelos estadísticos utilizados en una variedad de 
+    aplicaciones, incluyendo procesamiento de señales, procesamiento de lenguaje natural 
+    y reconocimiento de patrones. Se componen de estados ocultos que generan observaciones 
+    observables. Los HMMs son particularmente útiles para modelar secuencias de datos donde 
+    los estados subyacentes no son directamente observables.
+
+    Filtros de Kalman: El filtro de Kalman es un método para estimar el estado de un sistema
+     dinámico en presencia de ruido y observaciones inexactas. Se utiliza en muchas aplicaciones, 
+     como sistemas de navegación, control automático y seguimiento de objetos.
+
+    Red Bayesiana Dinámica: Filtrado de Partículas: Las redes bayesianas dinámicas son extensiones 
+    de las redes bayesianas que se utilizan para modelar sistemas que evolucionan en el tiempo. 
+    El filtrado de partículas es un enfoque para estimar el estado oculto de sistemas dinámicos 
+    que pueden ser no lineales y no gaussianos.
+
+    Reconocimiento del Habla: El reconocimiento del habla es el proceso de convertir señales de 
+    habla en texto o comandos escritos. Implica el uso de modelos probabilísticos, 
+    como modelos ocultos de Markov y redes neuronales, para reconocer patrones de voz y 
+    convertirlos en texto.
+
+Estos temas se utilizan en una variedad de campos, desde la ingeniería y la estadística hasta la inteligencia artificial y el procesamiento de señales, y son esenciales para modelar sistemas y datos que cambian con el tiempo y tienen cierta aleatoriedad o incertidumbre.
