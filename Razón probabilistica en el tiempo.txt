@@ -44,4 +44,6 @@
     como modelos ocultos de Markov y redes neuronales, para reconocer patrones de voz y 
     convertirlos en texto.
 
-Estos temas se utilizan en una variedad de campos, desde la ingeniería y la estadística hasta la inteligencia artificial y el procesamiento de señales, y son esenciales para modelar sistemas y datos que cambian con el tiempo y tienen cierta aleatoriedad o incertidumbre.
+Estos temas se utilizan en una variedad de campos, desde la ingeniería y la estadística hasta la
+inteligencia artificial y el procesamiento de señales, y son esenciales para modelar sistemas y 
+datos que cambian con el tiempo y tienen cierta aleatoriedad o incertidumbre.
